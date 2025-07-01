@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Fashion",
+    "description": "Fashion influencers who focus on clothing, accessories, and style trends",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Beauty",
+    "description": "Beauty influencers who focus on makeup, skincare, and beauty products",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Lifestyle",
+    "description": "Lifestyle influencers who share content about daily life, home decor, and personal experiences",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Travel",
+    "description": "Travel influencers who share content about destinations, travel tips, and experiences",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Food",
+    "description": "Food influencers who share recipes, restaurant reviews, and cooking tips",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Fitness",
+    "description": "Fitness influencers who share workout routines, nutrition advice, and health tips",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Technology",
+    "description": "Technology influencers who review gadgets, software, and share tech news",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Gaming",
+    "description": "Gaming influencers who stream gameplay, review games, and share gaming news",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Education",
+    "description": "Education influencers who share educational content, study tips, and learning resources",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Business",
+    "description": "Business influencers who share entrepreneurship advice, business tips, and industry insights",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Entertainment",
+    "description": "Entertainment influencers who create comedy, music, or other entertaining content",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Health",
+    "description": "Health influencers who share content about wellness, mental health, and healthy living",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Parenting",
+    "description": "Parenting influencers who share advice, experiences, and tips for parents",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Sports",
+    "description": "Sports influencers who share content about sports, athletics, and sporting events",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Art",
+    "description": "Art influencers who share their artwork, creative process, and art tips",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Music",
+    "description": "Music influencers who share music, performances, and music-related content",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Comedy",
+    "description": "Comedy influencers who create humorous content and entertainment",
+    "icon": "default-category.svg"
+  },
+  {
+    "name": "Real Estate",
+    "description": "Real estate influencers who share property listings, investment advice, and market trends",
+    "icon": "default-category.svg"
+  }
+]
